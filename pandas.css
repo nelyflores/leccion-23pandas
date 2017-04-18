@@ -1,0 +1,41 @@
+ul{
+  background-color: #B45F04;
+
+}
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+a{
+  color: whitesmoke;
+  padding: 10px;
+}
+a:hover{
+  color: green;
+}
+span{
+  color: red;
+  margin: 0 100px;
+}
+body{
+  background-color: #3B240B;
+}
+.boton{
+  display: inline-block;
+  padding: 20px;
+  margin-left: 20px;
+  width: 25%;
+  list-style: none;
+  background-color: #B45F04;
+
+}
+.imagenes{
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+p{
+  padding: 40px;
+  display: inline;
+}
