@@ -34,8 +34,19 @@ body{
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+  position: relative;
 }
 p{
-  padding: 40px;
+text-align: justify;
+width: 10px;
+display: inline;
+margin-left: 50px;
+
+}
+.cerrar{
+  position: absolute;
+  margin-left: -220px;
+}
+.imagen{
   display: inline;
 }
